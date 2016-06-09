@@ -7,7 +7,7 @@ Toutes les ressources aux exercices sont fournis.
 Au clic sur le bouton, afficher une boite de dialogue avec le message de votre choix.
 
 ##Exercice 2
-Au double click, augmenter la largeur de l'image à 500px;
+Au double click, modifier la largeur de l'image à 500px;
 
 ##Exercice 3
 Afficher ou masquer la div texte au clic des liens fournis.
